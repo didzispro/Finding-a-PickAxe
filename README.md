@@ -3,7 +3,7 @@ I’m adding my second game on GitHub!
 
 Goal of the Game:
 
-![ScreenShot1]("ScreenShot 1.png")
+![ScreenShot 1](ScreenShot1.png)
 
 Collect all coins.
 Explore the area and find hidden surprises.
