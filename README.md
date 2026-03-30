@@ -27,5 +27,4 @@ Small, fun, jam-friendly gameplay.
 You can play the game here:
 
 Itch.io Link: https://didzisprocoder.itch.io/finding-a-pickaxe-horror-weirdness
-
 Game jolt Link: https://gamejolt.com/games/Finding-A-PickAxe-horror-weirdness/1060160
