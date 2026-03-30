@@ -23,3 +23,8 @@ Collect all coins and defeat the boss and pick the pickaxe mine the rock and win
 Small, fun, jam-friendly gameplay.
 
 ![ScreenShot 4](ScreenShot4.png)
+
+You can play the game here:
+
+Itch.io Link: https://didzisprocoder.itch.io/finding-a-pickaxe-horror-weirdness
+Game jolt Link: https://gamejolt.com/games/Finding-A-PickAxe-horror-weirdness/1060160
